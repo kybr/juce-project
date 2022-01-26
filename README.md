@@ -3,7 +3,7 @@
 ## Getting started
 
 ```
-git clone juce-project
+git clone https://github.com/kybr/juce-project
 cd juce-project
 git clone https://github.com/juce-framework/JUCE
 cp JUCE/examples/CMake/AudioPlugin/* .
