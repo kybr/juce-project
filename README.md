@@ -11,7 +11,10 @@ cp JUCE/examples/CMake/AudioPlugin/* .
 mkdir build
 cmake ..
 cmake --build .
+# see AudioPluginExample_artefacts/
 ```
+
+Edit the CMakeLists.txt file to configure the project.
 
 ## VSCode...
 
